@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🧱️📖️ The official documentation source repository for Oh Hi Markdown, a basic markdown joke project. Inspired by the classic rooftop scene from the movie 'The Room'. 
